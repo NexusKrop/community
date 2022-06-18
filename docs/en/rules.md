@@ -26,7 +26,7 @@ This covers the following communities:
 8. Use common sense considerably.
 9. DDOS attacks or similar are strictly prohibited.
 10. Absolutely no political content.
-   * This will result in immediate ban without warning.
+    * This will result in immediate ban without warning.
 11. No spamming, advertising or similar.
 
 Ignorance of the rules **is not a defense**.
